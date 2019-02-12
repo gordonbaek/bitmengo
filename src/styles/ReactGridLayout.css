@@ -1,0 +1,7 @@
+.react-resizable-handle {
+  opacity: 0;
+}
+
+.react-grid-item:hover > .react-resizable-handle {
+  opacity: 1.0;
+}

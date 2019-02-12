@@ -1,0 +1,12 @@
+.ag-theme-fresh.bids .ag-row-hover{
+    background-color: #FCD8DA;
+}
+
+.ag-theme-fresh.asks .ag-row-hover{
+    background-color: #D6EFDE;
+}
+
+.ag-theme-fresh .ag-header-cell-label {
+    text-align: right;
+ }
+
